@@ -2,7 +2,7 @@ module.exports.config = {
  name: "help",
  version: "1.0.4",
  hasPermssion: 0,
- credits: "Burhan Mondal",
+ credits: "𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐈𝐬𝐥𝐚𝐦",
  description: "Shows all commands with details",
  commandCategory: "system",
  usages: "[command name/page number]",
