@@ -28,7 +28,8 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
     "pro": "Khud k0o KYa LeGend SmJhTi Hai 😂",
     "good morning": "GOOD MORNING দাত ব্রাশ করে খেয়ে নেও😚",
     "tor ball": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
-    "Rhyme": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
+    "rhyme": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
+    "burhan": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
     "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ Rhyme☜\nFacebook: https://www.facebook.com/profile.php?id=61571064342538",
     "admin": "He is Rhyme তাকে সবাই Cyber Bot Team Saport Admin হিসেবে চিনে😘☺️",
     "babi": "এ তো হাছিনা হে মেরে দিলকি দারকান হে মেরি জান হে😍.",
@@ -37,19 +38,20 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
     "fork": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT.git",
     "kiss me": "তুমি পঁচা তোমাকে কিস দিবো না 🤭",
     "thanks": "এতো ধন্যবাদ না দিয়ে আমার বস রাইম রে তোর গার্লফ্রেন্ড টা দিয়ে দে..!🐸🥵",
-    "i love you": "মেয়ে হলে আমার বস রাইম এর ইনবক্সে এখুনি গুঁতা দিন🫢😻",
-    "by": "কিরে তুই কই যাস কোন মেয়ের সাথে চিপায় যাবি..!🌚🌶️",
+    "i love you": "মেয়ে হলে আমার বস BURHAN এর ইনবক্সে এখুনি গুঁতা দিন🫢😻",
+    "bye": "কিরে তুই কই যাস কোন মেয়ের সাথে চিপায় যাবি..!🌚🌶️",
     "ami Rhyme": "হ্যা বস কেমন আছেন..?☺️",
     "bot er baccha": "আমার বাচ্চা তো তোমার গার্লফ্রেন্ডের পেটে..!!🌚⛏️",
-    "tor nam ki": "MY NAME IS ─꯭─⃝‌‌Rhyme chat bot",
+    "tor nam ki": "MY NAME IS ─꯭─⃝‌‌Viper chat bot",
     "pic de": "এন থেকে সর দুরে গিয়া মর😒",
-    "cudi": "এত চোদা চুদি করস কেনো..!🥱🌝🌚",
+    "cudi": "এত চোদা করস কেনো..!🥱🌝🌚",
     "bal": "রাগ করে না সোনা পাখি 🥰",
     "heda": "এতো রাগ শরীরের জন্য ভালো না 🥰",
     "boda": "ভাই তুই এত হাসিস না..!🌚🤣",
     "love you": "ভালোবাসা নামক আবলামী করতে চাইলে Boss শাহাদাৎ এর ইনবক্সে গুতা দিন 😘",
     "kire ki koros": "তোমার কথা ভাবতে ছি জানু",
-    "kire bot": "হ্যাঁ সব কেমন আছেন আপনার ওই খানে উম্মাহ 😘😽🙈"
+    "kire bot": "হ্যাঁ সব কেমন আছেন আপনার ওই খানে উম্মাহ 😘😽🙈",
+    "gf": " তোমার গার্লফ্রেন্ড লাগবে কেন আমি তো আছি"
   };
 
   if (responses[msg]) {
